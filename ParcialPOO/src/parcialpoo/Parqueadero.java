@@ -13,7 +13,17 @@ public class Parqueadero {
 
     Vehiculo arraymisVehiculos[] = new Vehiculo[100];
 
-    public int ingresarVehiculo();
+    public int ingresarVehiculo(){
+        return 0;
+}
+    public int retirarVehiculo(){
+        return 0;
+};
+    public int consultarCupos(){
+        return 0;
+};
+    
+            
     
     
 
