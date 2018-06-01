@@ -11,7 +11,7 @@ package parcialpoo;
  */
 public interface iVehiculo {
     
-    String placa();
+    private String placa();
     String propietario();
     float cilindraje();       
     

@@ -12,5 +12,6 @@ package parcialpoo;
 public class Vehiculo implements iVehiculo {
 
     
+    
 
 }
