@@ -10,9 +10,17 @@ package parcialpoo;
  * @author Estudiantes
  */
 public class Parqueadero {
+
+    Vehiculo arraymisVehiculos[] = new Vehiculo[100];
+
+    public int ingresarVehiculo();
     
     
+
+        
+            
     
+
     
-    
+   
 }
