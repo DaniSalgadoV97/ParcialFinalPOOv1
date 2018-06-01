@@ -11,17 +11,28 @@ package parcialpoo;
  */
 public class Parqueadero {
 
+    Vehiculo misVehiculos = new Vehiculo();
     Vehiculo arraymisVehiculos[] = new Vehiculo[100];
 
-    public int ingresarVehiculo(){
-        return 0;
-}
-    public int retirarVehiculo(){
-        return 0;
-};
-    public int consultarCupos(){
-        return 0;
-};
+    public int ingresarVehiculo() {
+        int ing = 0;
+        return ing;
+    }
+
+    public int retirarVehiculo() {
+        int ret = 0;
+        
+
+        return ret;
+    }
+
+    ;
+    public int consultarCupos() {
+        int cup = 0;
+        
+        return cup;
+    }
+;
     
             
     
