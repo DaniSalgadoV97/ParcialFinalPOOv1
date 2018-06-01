@@ -38,6 +38,21 @@ public class Vehiculo implements iVehiculo {
     public void setCilindraje(float cilindraje) {
         this.cilindraje = cilindraje;
     }
+
+    @Override
+    public String placaVehiculo() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public String nombrePropietario() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public float cilindraje() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
 
